@@ -3,4 +3,4 @@ The code is written to build a docker image that can deployed on remote machines
 File Name                                 function
 app.py                                  main file for evaluation and parameter search
 Initialize_services.py                  where the algoritm goes
-utils_pos.py		                        utilities functions for preprocessing corpus, etc.
+utils_pos.py		                utilities functions for preprocessing corpus, etc.
